@@ -17,6 +17,9 @@ Contents:
 Indices and tables
 ==================
 
+sheme
+----------------------
+
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
